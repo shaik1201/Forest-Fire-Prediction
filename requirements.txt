@@ -49,8 +49,8 @@ jsonschema==4.4.0
 jupyter-client==7.1.0
 jupyter-core==4.9.1
 jupyterlab-pygments==0.1.2
-keras==2.9.0
-Keras-Preprocessing==1.1.2
+# keras==2.9.0
+# Keras-Preprocessing==1.1.2
 kiwisolver==1.4.0
 libclang==14.0.6
 Markdown==3.4.1
@@ -62,11 +62,11 @@ nbclient==0.5.13
 nbconvert==6.4.4
 nbformat==5.2.0
 nest-asyncio==1.5.4
-networkx==2.8
-notebook==6.4.10
+# networkx==2.8
+# notebook==6.4.10
 numpy==1.22.2
 oauthlib==3.2.0
-opencv-python==4.5.5.64
+# opencv-python==4.5.5.64
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.2
@@ -74,7 +74,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 patsy==0.5.2
 pickleshare==0.7.5
-Pillow==9.0.1
+# Pillow==9.0.1
 platformdirs==2.5.1
 prometheus-client==0.13.1
 prompt-toolkit==3.0.23
@@ -101,14 +101,14 @@ six==1.16.0
 sklearn==0.0
 sniffio==1.2.0
 soupsieve==2.3.1
-SQLAlchemy==1.4.31
-statsmodels==0.13.2
-tensorboard==2.9.1
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.9.1
-tensorflow-estimator==2.9.0
-tensorflow-io-gcs-filesystem==0.26.0
+# SQLAlchemy==1.4.31
+# statsmodels==0.13.2
+# tensorboard==2.9.1
+# tensorboard-data-server==0.6.1
+# tensorboard-plugin-wit==1.8.1
+# tensorflow==2.9.1
+# tensorflow-estimator==2.9.0
+# tensorflow-io-gcs-filesystem==0.26.0
 termcolor==1.1.0
 terminado==0.13.3
 testpath==0.6.0
